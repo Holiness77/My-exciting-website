@@ -1,0 +1,45 @@
+.FirstHeading{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.Navigation{
+    background-color: black;
+    color: white;
+    gap: 250px;
+    text-align: center;
+    display: flex;
+}
+.Balloonone{
+    width: 300px;
+    height: 300px;
+    height: 300px;
+    float: inline-start;
+    gap: 10px;
+    border-color: aqua;
+}
+.ThirdHeading{
+    text-align: right;
+    font-family: fantasy;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+.Photography{
+    float: right;
+    margin-left:50px ;
+    margin-top: 5px;
+}
+.SecondHeading{
+    text-align: left;
+    font-family: fantasy;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.Paragraphs{
+    text-align: left;
+    gap: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
